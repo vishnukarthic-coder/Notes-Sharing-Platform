@@ -95,16 +95,4 @@ To run NoteSharing locally, follow these steps:
    ```
 7. Visit `http://localhost:3000` in your web browser to access NoteShare.
 
-## Contribution
-
-We welcome contributions to make NoteShare better! If you have any bug fixes, feature implementations, or suggestions, feel free to open an issue or submit a pull request.
-
-## License
-
-NoteShare is licensed under the [**MIT License**](https://github.com/ankitkr437/NoteSharing/blob/main/LICENSE). Feel free to use, modify, and distribute the code for personal and commercial projects.
-
-## Contact
-
-If you have any questions, feedback, or inquiries, please contact us at **ankitloharshi@gmail.com** or visit our [**website**](https://notesharing.onrender.com/).
-
 Happy Note Sharing! 📝
